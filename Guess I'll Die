@@ -1,0 +1,24 @@
+<!DOCTYPE html> 
+<html> 
+  <head> 
+    <style>
+    h1{color: green;}
+      h2{color: blue;}
+    </style>
+    <title> Awesome Webpage Design</title>
+  </head> 
+  <body> 
+<h1>STEMtastic! {color: green;}</h1>
+<p>This is like learning a new language, going to take some immersion to feel comfortable with it. I should delve into THE MATRIX.</p>
+<h2>Enter the Matrix?</h2>
+<p><a href="http://discovermagazine.com/2013/dec/09-do-we-live-in-the-matrix">FAKE NEWS?</a></p>
+<h3>If I can't figure this out...Guess I'll die -\_O_/</h3>
+<p><img src="http://i0.kym-cdn.com/entries/icons/original/000/023/677/Screen_Shot_2017-08-15_at_11.57.51_AM.png" alt="guess i'll die meme" width="450" height="400" /></p>
+<! -- I love this meme, so I inserted it, and then things started getting dark, i dont wanna die-- !>
+<h4>Ways I could die?</h4>
+<ul>
+  <li>fall out of a helicopter</li>
+  <li>Choke on a steak</li>
+  <li>Piano falls on my head</li>
+  </body> 
+  </html> 
